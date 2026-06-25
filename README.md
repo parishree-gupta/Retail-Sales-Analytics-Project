@@ -1,5 +1,9 @@
 # 📊 Global Retail Sales Analytics Dashboard
 
+An end-to-end data analytics project using Excel, SQL, and Power BI to analyze global retail sales, identify business trends, and build interactive dashboards.
+
+![Dashboard](Screenshots/01_Executive_Overview.jpg)
+
 ## 📌 Project Overview
 
 This project focuses on analyzing global retail sales data to uncover business insights, identify sales trends, evaluate regional performance, and understand customer purchasing behavior. The analysis was performed using Excel, SQL, and Power BI, resulting in an interactive dashboard that supports data-driven decision-making.
