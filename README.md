@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project using Excel, SQL, and Power BI to analyze global retail sales, identify business trends, and build interactive dashboards.
 
-![Dashboard](Screenshots/01_Executive_Overview.jpg)
+![Dashboard](Screenshots/01_Executive_Overview.jpeg)
 
 ## 📌 Project Overview
 
